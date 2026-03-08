@@ -1,0 +1,2 @@
+# for-django-intership
+homework
